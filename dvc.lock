@@ -36,8 +36,8 @@ stages:
       md5: 7e6214bb528dd69609564aa1392a7e53
       size: 8
     - path: stage_03.py
-      md5: d45d4a98364d3d105ca14d79dae3be0b
-      size: 188
+      md5: 63369fa541999f16cbe1b6b3cef5887d
+      size: 181
     outs:
     - path: artifacts02.txt
       md5: 9493c6499e50baf24242945e44cae6cb
